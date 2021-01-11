@@ -1,0 +1,13 @@
+C:\Users\USER\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.csprojAssemblyReference.cache
+C:\Users\USER\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.AssemblyInfoInputs.cache
+C:\Users\USER\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.AssemblyInfo.cs
+C:\Users\USER\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.csproj.CoreCompileInputs.cache
+C:\Users\USER\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.exe
+C:\Users\USER\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.deps.json
+C:\Users\USER\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.runtimeconfig.json
+C:\Users\USER\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.runtimeconfig.dev.json
+C:\Users\USER\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.dll
+C:\Users\USER\ResultRoaster\bin\Debug\netcoreapp3.1\ResultRoaster.pdb
+C:\Users\USER\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.dll
+C:\Users\USER\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.pdb
+C:\Users\USER\ResultRoaster\obj\Debug\netcoreapp3.1\ResultRoaster.genruntimeconfig.cache
